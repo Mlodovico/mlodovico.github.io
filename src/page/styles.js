@@ -1,23 +1,55 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-    width: 100%;
     height: 100%;
+    width: 100%;
     position: absolute;
-    align-items: center;
-    justify-content: center;
-    background-color: #808080;
+    background-color: #21325E;
 `;
 
 export const Wrapper = styled.div`
-    height: 90%;
-    width: 90%;
-    align-items: center;
+    display: flex;
     justify-content: center;
-    border-radius: 2%;
-    background-color: #DCDCDC;
+    align-items: center;
+`;
+
+export const HeaderWrapper = styled.div`
+    min-height: 60px;
+    width: 100%;
+    background-color: #F0F0F0;
+    padding: 5px 30px;
+    text-align: center;
+`;
+
+export const BodyWrapper = styled.div`
+    width: 90%;
+    max-width: 1000px;
+    background-color: #F0F0F0;
+    opacity: 70%;
+    border-radius: 8px;
+    padding: 5px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+`;
+
+export const FooterWrapper = styled.div`
+    bottom: 0px;    
+    height: 60px;
+    width: 100%;
+    background-color: #F0F0F0;
+    padding: 5px 30px;
+    text-align: center;
 `;
 
 export const Text = styled.p`
-    font-size: 20px,
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: monospace;
+`;
+
+export const LogoImageIcon = styled.img`
+    height: 30px;
+    width: 30px;
+    background-color: #F0F0F0;
 `;
