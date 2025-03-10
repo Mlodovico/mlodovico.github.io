@@ -24,6 +24,7 @@ export const esES = {
     "Certificado de formación académica en Ciencias de la Computación",
   swiftDegreeDescription: "Certificado de formación en Swift",
   javaSpringDegreeDescription: "Certificado de formación en Java y Spring",
+  javaSpringDatabaseDegreeDescription: "Java Fundamentals, Spring and Database",
   webCourseDegreeDescription:
     "Curso en Udemy, desarrollando y aprendiendo a utilizar JavaScript y sus frameworks",
   intelliJCourseDescription:

@@ -19,6 +19,7 @@ import ProfileFrontImage from "../../assets/back-profile-image.jpeg";
 import degree from "../../assets/degree.pdf";
 import webCourseJavascript from "../../assets/webcourse-javascript.jpg";
 import javaSpringDegree from "../../assets/java-spring-degree.pdf";
+import javaSpringDatabaseDegree from "../../assets/completed-java-curse.pdf";
 import swiftDegree from "../../assets/swift-degree.pdf";
 import ResumeEn from "../../assets/resumeEn.pdf";
 import Resume from "../../assets/resume.pdf";
@@ -119,6 +120,11 @@ function App() {
       title: "Java Spring",
       subtitle: ling.javaSpringDegreeDescription,
       link: javaSpringDegree,
+    },
+    {
+      title: "Java Spring Database",
+      subtitle: ling.javaSpringDatabaseDegreeDescription,
+      link: javaSpringDatabaseDegree,
     },
     {
       title: "IntelliJ IDEA Tricks",

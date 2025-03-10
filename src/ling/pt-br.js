@@ -24,6 +24,7 @@ export const ptBR = {
     "Certificado de formação acadêmica em Ciência da Computação",
   swiftDegreeDescription: "Certificado de formação Swift",
   javaSpringDegreeDescription: "Certificado de formação Java e Spring",
+  javaSpringDatabaseDegreeDescription: "Fundamentos do Java, Spring e Banco de Dados",
   webCourseDegreeDescription:
     "Curso Udemy, desenvolvendo e aprendendo a utilizar JavaScript e seus frameworks",
   intelliJCourseDescription:

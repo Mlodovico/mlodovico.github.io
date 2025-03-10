@@ -23,6 +23,7 @@ export const enUs = {
   degreeDescription: "Cience Computer Degree Certificate",
   swiftDegreeDescription: "Certificate of Swift Degree",
   javaSpringDegreeDescription: "Certificate of Java and Spring",
+  javaSpringDatabaseDegreeDescription: "Java Fundamentals, Spring and Database",
   webCourseDegreeDescription:
     "Udemy Course, developing and learning JavaScript and its frameworks",
   intelliJCourseDescription:
