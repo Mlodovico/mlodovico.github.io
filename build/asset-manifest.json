@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.df81c488.css",
-    "main.js": "/static/js/main.ca72121e.js",
+    "main.js": "/static/js/main.6ed5576c.js",
     "static/js/787.1b6b5af2.chunk.js": "/static/js/787.1b6b5af2.chunk.js",
     "static/media/back-profile-image.jpeg": "/static/media/back-profile-image.784e2428d830bde35008.jpeg",
     "static/media/degree.pdf": "/static/media/degree.40a06f98729b1b0f0fee.pdf",
     "static/media/java-spring-degree.pdf": "/static/media/java-spring-degree.814e68424b8c3e27ef1a.pdf",
     "static/media/webcourse-javascript.jpg": "/static/media/webcourse-javascript.6a4ff95636da0c947b7e.jpg",
     "static/media/swift-degree.pdf": "/static/media/swift-degree.83134c63058362dbc45b.pdf",
+    "static/media/completed-java-curse.pdf": "/static/media/completed-java-curse.d8a6ddf20e2e3059e6ee.pdf",
     "static/media/resume.pdf": "/static/media/resume.8084aac747c44cb81eb6.pdf",
     "static/media/resumeEn.pdf": "/static/media/resumeEn.3618c2a9aa1e9230e3bf.pdf",
     "static/media/profile_image_square.jpeg": "/static/media/profile_image_square.a709d5330de9fa1a2ae8.jpeg",
     "index.html": "/index.html",
     "main.df81c488.css.map": "/static/css/main.df81c488.css.map",
-    "main.ca72121e.js.map": "/static/js/main.ca72121e.js.map",
+    "main.6ed5576c.js.map": "/static/js/main.6ed5576c.js.map",
     "787.1b6b5af2.chunk.js.map": "/static/js/787.1b6b5af2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df81c488.css",
-    "static/js/main.ca72121e.js"
+    "static/js/main.6ed5576c.js"
   ]
 }
