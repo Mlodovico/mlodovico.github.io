@@ -221,10 +221,23 @@ function App() {
       <main id="main">
         <section className="hero" id="top">
           <div className="hero__copy">
-            <p className="eyebrow">
-              <span className="pulse" aria-hidden="true" />
-              {ling.currentBadge} · {ling.availability}
-            </p>
+            <ul className="hero__meta">
+              <li>
+                <span className="hero__meta-label">{ling.currentLabel}</span>
+                <strong>
+                  <span className="pulse" aria-hidden="true" />
+                  {ling.currentCompany}
+                </strong>
+              </li>
+              <li>
+                <span className="hero__meta-label">{ling.locationLabel}</span>
+                <strong>{ling.location}</strong>
+              </li>
+              <li>
+                <span className="hero__meta-label">{ling.workModeLabel}</span>
+                <strong>{ling.workMode}</strong>
+              </li>
+            </ul>
             <h1>
               Murilo
               <span>Lodovico</span>
