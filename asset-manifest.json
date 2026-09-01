@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c55985cf.css",
-    "main.js": "/static/js/main.0e986f48.js",
+    "main.css": "/static/css/main.0d6f0a16.css",
+    "main.js": "/static/js/main.d74ce413.js",
     "static/js/787.1b6b5af2.chunk.js": "/static/js/787.1b6b5af2.chunk.js",
     "static/media/back-profile-image.jpeg": "/static/media/back-profile-image.784e2428d830bde35008.jpeg",
     "static/media/degree.pdf": "/static/media/degree.40a06f98729b1b0f0fee.pdf",
@@ -12,12 +12,12 @@
     "static/media/resumeEn.pdf": "/static/media/resumeEn.3618c2a9aa1e9230e3bf.pdf",
     "static/media/profile_image_square.jpeg": "/static/media/profile_image_square.a709d5330de9fa1a2ae8.jpeg",
     "index.html": "/index.html",
-    "main.c55985cf.css.map": "/static/css/main.c55985cf.css.map",
-    "main.0e986f48.js.map": "/static/js/main.0e986f48.js.map",
+    "main.0d6f0a16.css.map": "/static/css/main.0d6f0a16.css.map",
+    "main.d74ce413.js.map": "/static/js/main.d74ce413.js.map",
     "787.1b6b5af2.chunk.js.map": "/static/js/787.1b6b5af2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c55985cf.css",
-    "static/js/main.0e986f48.js"
+    "static/css/main.0d6f0a16.css",
+    "static/js/main.d74ce413.js"
   ]
 }
